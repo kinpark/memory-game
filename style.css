@@ -2,7 +2,8 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 body {
   background-color: #00a8e8;
@@ -48,7 +49,7 @@ body {
   align-items: center;
   justify-content: center;
   border: 4px solid #000000;
-  transition: transform 0.7s ease-out;
+  transition: transform 0.5s ease-out;
   backface-visibility: hidden;
 }
 .card-before {
